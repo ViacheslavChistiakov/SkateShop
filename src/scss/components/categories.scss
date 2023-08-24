@@ -1,0 +1,145 @@
+.categories {
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+    height: 72px;
+    margin: auto;
+    padding: 10px;
+    z-index: 1;
+    position: relative;
+    bottom: 5px;
+
+    .top, .new, .buy {
+        position: relative;
+        bottom: 3px;
+        display: flex;
+        width: 401px;
+        height: 71px;
+        background-color: #D9D9D9;
+        border: 24px;
+        box-shadow: 10px 5px 5px gray;
+     
+
+        .top_title, .new_title, .buy_title {
+          width: 50%;
+          padding: 10px;
+          margin: auto;
+          color: #6633CC;
+          opacity: 60%;
+        }
+
+        }
+    }
+    .choose {
+        position: relative;
+        bottom: 3px;
+        display: flex;
+        width: 401px;
+        height: 71px;
+        background-color: #0033FF;
+    }
+
+        .choose_title {
+            width: 50%;
+            padding: 10px;
+            margin: auto;
+            color: #ffff;
+        }
+
+
+    .product {
+        width: 1200px;
+        height: 550px;
+        // border: 1px solid red;
+        position: relative;
+        display: flex;
+        justify-content: flex-start;
+        margin: auto;
+        padding: 10px;
+        bottom: 10px;
+
+    }
+
+    .first-item {
+        width: 400px;
+        height: 550px;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+
+
+
+        .product-view {
+            width: 119px;
+            height: 438px;
+            
+        }
+
+
+
+        .product-info {
+            // border: 1px solid red;
+            display: flex;
+            justify-content: flex-start;
+            width: 233px;
+            height: auto;
+            position: relative;
+            bottom: 420px;
+            left: 50px;
+            margin: auto;
+            padding: 10px;
+            flex-direction: column;
+
+            .title-product {
+                padding-left: 30px;
+                margin: 10px;
+                align-self: flex-start;
+                justify-content: space-between;
+            }
+
+            .info-wrapper {
+                writing-mode: horizontal-tb; 
+                text-align: start;
+                padding-top: 55px;
+       
+            }
+        
+        }
+
+        .product-price {
+            position: relative;
+            margin: auto;
+            bottom: 350px;
+            display: flex;
+            justify-content: space-between;
+
+
+
+        }
+
+        .price_inner {
+            display: flex;
+            justify-content: space-between;
+            color: #13742E;
+        }
+
+        .buy_item {
+            width: 84px;
+            padding: 10px;
+            margin: auto;
+            margin-left: 10px;
+            height: 33px;
+            align-items: center;
+            border-radius: 10%;
+            margin-bottom:  20px;
+            color: white;
+            background-color: #8730A6;
+        }
+
+
+    
+
+    }
+
+
+    

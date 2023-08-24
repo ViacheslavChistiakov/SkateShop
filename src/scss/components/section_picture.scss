@@ -1,0 +1,30 @@
+.section_picture {
+   width: 100%;
+   height: 265px;
+   display: flex;
+   justify-content: flex-start;
+
+   .first_picture, .second_picture {
+    width: 400px;
+    height: 265px;
+   }
+
+   .four_picture {
+    height: 269px;
+
+    .four_inner {
+        height: 100%;
+    }
+   }
+
+   .last_picture {
+    width: 100%;
+    height: 100%;
+
+    .last_inner {
+        width: 100%;
+        height: 100%;
+    }
+   }
+
+}
