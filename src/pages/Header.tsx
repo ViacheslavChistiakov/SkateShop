@@ -8,6 +8,10 @@ import React from 'react';
 
 
 function Header() {
+ const Check = () => {
+    console.log("pass");
+ }
+
     return (
         <header className='header'>
         <button  className="burger">
