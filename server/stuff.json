@@ -1,0 +1,65 @@
+{
+    "Decks": [
+        {
+            "id": 0,
+            "imageUrl": "https://www.skvot.com/images/images_goods/j07efit.jpeg",
+            "title": "Stefan Janoski Sabor",
+            "size": "8.25",
+            "category": 1,
+            "rating": 5
+
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://www.skvot.com/images/images_goods/mnuwgny2eg.png",
+            "title": "ALIEN WORKSHOP x Thrasher Missing",
+            "size": "8.75",
+            "price": "59$",
+            "category": 1,
+            "rating": 4
+
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://www.skvot.com/images/images_goods/9vya5d.png",
+            "title": "SOUR No Woman No Cry",
+            "size": "8.25",
+            "price": "67$",
+            "category": 1,
+            "rating": 4
+
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://www.skvot.com/images/images_goods/9vya5d.png",
+            "title": "SOUR No Woman No Cry",
+            "size": "8.25",
+            "price": "89$",
+            "category": 1,
+            "rating": 5
+
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://www.skvot.com/images/images_goods/5a3kfppl3cz.png",
+            "title": "BRAILLE CABIN",
+            "size": "8.0",
+            "price": "59$",
+            "category": 1,
+            "rating": 4
+
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://www.skvot.com/images/images_goods/22o9nk.jpg",
+            "title": "PUNK SKULL BLACK",
+            "size": "8.25",
+            "price": "49$",
+            "category": 1,
+            "rating": 3
+
+        }
+    ]
+
+
+}
