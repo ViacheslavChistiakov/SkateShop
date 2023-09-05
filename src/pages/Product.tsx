@@ -6,6 +6,10 @@ import board3 from  '../assets/board3.png';
 
 
 function Product () {
+
+
+
+
     return (
         <div className="product">
         <div className="first-item">

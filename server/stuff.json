@@ -59,7 +59,226 @@
             "rating": 3
 
         }
+    ],
+
+    "Trucks": [
+        {
+            "id": 0,
+            "title": "TENSOR Alloys RED/RAW",
+            "imageUrl": "https://www.skvot.com/images/images_goods/oui1by7jku.jpeg",
+            "size": 139,
+            "price": "39$",
+            "category": 2,
+            "rating": 3 
+        },
+        {
+            "id": 1,
+            "title": "TENSOR Alloys ROYAL/RAW",
+            "imageUrl": "https://www.skvot.com/images/images_goods/kkj4vcw61g1.jpeg",
+            "size": 139,
+            "price": "39$",
+            "category": 2,
+            "rating": 3 
+        },
+        {
+            "id": 2,
+            "title": "INDEPENDENT Stage 11 Classic OGBC Flat Black Standard",
+            "imageUrl": "https://www.skvot.com/images/images_goods/tzjnv.jpeg",
+            "size": 142,
+            "price": "60$",
+            "category": 2,
+            "rating": 5 
+        },
+        {
+            "id": 3,
+            "title": "INDEPENDENT Polished Mid 139",
+            "imageUrl": "https://www.skvot.com/images/images_goods/bwqcmkdy.png",
+            "size": 139,
+            "price": "49$",
+            "category": 2,
+            "rating": 4 
+        },
+        {
+            "id": 4,
+            "title": "KRUX K5 Chaz Ortiz DLK Standard",
+            "imageUrl": "https://www.skvot.com/images/images_goods/598evwi.jpeg",
+            "size": 139,
+            "price": "29$",
+            "category": 2,
+            "rating": 3 
+        },
+        {
+            "id": 5,
+            "title": "KRUX K5 Grind Out Racism DLK Standard",
+            "imageUrl": "https://www.skvot.com/images/images_goods/igyi3zdphn.jpeg",
+            "size": 139,
+            "price": "35$",
+            "category": 2,
+            "rating": 4 
+        }
+    ],
+
+    "Wheels": [
+        {
+            "id": 0,
+            "title": "BONES RETROS WIDE (SS) 103a",
+            "imageUrl": "https://www.skvot.com/images/images_goods/791zhnub.jpg",
+            "rigidity": "103A",
+            "price": "35$",
+            "category": 3,
+            "rating": 3
+        },
+        {
+            "id": 1,
+            "title": "DARKROOM TRICLOPS HYPNOTIC 99A 54",
+            "imageUrl": "https://www.skvot.com/images/images_goods/co1048g90b2y.jpeg",
+            "rigidity": "99A",
+            "price": "35$",
+            "category": 3,
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "title": "FLIP CUTBACK MUSTARD GRASSERS WHEELS 53 (SS23) 99A",
+            "imageUrl": "https://www.skvot.com/images/images_goods/2biomv.jpeg",
+            "rigidity": "99A",
+            "price": "39$",
+            "category": 3,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "title": " FLIP CUTBACK HYPNOTIC ROLLERS WHEELS (SS23) 99A",
+            "imageUrl": "https://www.skvot.com/images/images_goods/rhyns9siyi86p6.jpeg",
+            "rigidity": "99A",
+            "price": "39$",
+            "category": 3,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "title": "CINETIC FRACTAL WHEELS (SS22) 101A",
+            "imageUrl": "https://www.skvot.com/images/images_goods/rhyns9siyi86p6.jpeg",
+            "rigidity": "101A",
+            "price": "49$",
+            "category": 3,
+            "rating": 5
+        },
+        {
+            "id": 5,
+            "title": "POWELL PERALTA DRAGON FORMULA (SS23) OFF WHITE 101A",
+            "imageUrl": "https://www.skvot.com/images/images_goods/00dva830s5jb0yr.jpeg",
+            "rigidity": "101A",
+            "price": "49$",
+            "category": 3,
+            "rating": 5
+        }
+    ],
+
+    "Bearings": [
+        {
+            "id": 0,
+            "title": "DARKROOM TRICLOPS OCTOPOD ABEC 7",
+            "imageUrl": "https://www.skvot.com/images/images_goods/39ifq.jpeg",
+            "price": "29$",
+            "category": 4,
+            "rating": 3
+        },
+        {
+            "id": 1,
+            "title": "REFLEX DURABUILT BEARINGS Red/Black",
+            "imageUrl": "https://www.skvot.com/images/images_goods/xo5jk1aj1z.jpeg",
+            "price": "29$",
+            "category": 4,
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "title": "FLIP HKD BEARINGS ABEC 5",
+            "imageUrl": "https://www.skvot.com/images/images_goods/dslv8099pvrirk.jpeg",
+            "price": "39$",
+            "category": 4,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "title": "MOSAIC SUPER 1 TOM PENNY ABEC 7 (SS23) BLACK",
+            "imageUrl": "https://www.skvot.com/images/images_goods/awhrra1v9i.jpeg",
+            "price": "45$",
+            "category": 4,
+            "rating": 5
+        },
+        {
+            "id": 4,
+            "title": "INDEPENDENT GP-S",
+            "imageUrl": "https://www.skvot.com/images/images_goods/rrcq1089t9v87.jpeg",
+            "price": "39$",
+            "category": 4,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "title": "BRONSON G2 Bronson Speed Co",
+            "imageUrl": "https://www.skvot.com/images/images_goods/viwgqrmie.jpeg",
+            "price": "39$",
+            "category": 4,
+            "rating": 4
+        }
+    ],
+
+    "GripTapes": [
+        {
+            "id": 0,
+            "title": "DARKROOM ASTERISK DIE CUT grip tape",
+            "imageUrl": "https://www.skvot.com/images/images_goods/tt70u.jpg",
+            "price": "19$",
+            "category": 5,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "title": "JESSUP GRIPTAPE 3100",
+            "imageUrl": "https://www.skvot.com/images/images_goods/1lrxv.jpeg",
+            "price": "9$",
+            "category": 5,
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "title": "WELCOME ZEBRA GRIPTAPE BKWT",
+            "imageUrl": "https://www.skvot.com/images/images_goods/knnlgadt.jpeg",
+            "price": "19$",
+            "category": 5,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "title": "MOB GRIP Nora Grip Tape 9in x 33in",
+            "imageUrl": "https://www.skvot.com/images/images_goods/wqg6c67861lgcb.jpg",
+            "price": "19$",
+            "category": 5,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "title": "MOB GRIP Wyld Tiger Grip Tape 9in x 33in",
+            "imageUrl": "https://www.skvot.com/images/images_goods/bkphl0kxhgf4.jpeg",
+            "price": "19$",
+            "category": 5,
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "title": "ENJOI THE ROCK",
+            "imageUrl": "https://www.skvot.com/images/images_goods/gaqbv2e.jpeg",
+            "price": "19$",
+            "category": 5,
+            "rating": 4
+        }
     ]
+
+  
 
 
 }
+
