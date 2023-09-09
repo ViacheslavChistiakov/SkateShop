@@ -6,8 +6,8 @@ import board3 from  '../assets/board3.png';
 interface props {
   title: string,
   size: string,
-  image: any,
-  price: string
+  imageUrl: any,
+  price: string,
 }
 
 
@@ -18,7 +18,7 @@ function Product (props: props) {
     return (
 
         <div  className="first-item">
-          <img className='product-view' src={props.image} alt="" />
+          <img className='product-view' src={props.imageUrl} alt="" />
           <div className="product-info">
           <h1 className="title-product">{props.title}</h1>
             <ul className='product-about'>
